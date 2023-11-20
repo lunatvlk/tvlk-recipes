@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Recipe description</string>
 	<key>Identifier</key>
-	<string>com.github.lunatvlk.tvlk-repices.Mockoon</string>
+	<string>tvlk-repices.download.Mockoon</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
